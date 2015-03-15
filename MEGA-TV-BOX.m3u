@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1, MBC 1
+http://globe2.midomed.com:80/live/GLres245/fannenT/50.ts
+#EXTINF:-1, MBC 2
+http://globe2.midomed.com:80/live/GLres245/fannenT/51.ts
+#EXTINF:-1, MBC 3
+http://globe2.midomed.com:80/live/GLres245/fannenT/52.ts
+#EXTINF:-1, MBC 4
+http://globe2.midomed.com:80/live/GLres245/fannenT/53.ts
+#EXTINF:-1, MBC ACTION
+http://globe2.midomed.com:80/live/GLres245/fannenT/55.ts
+#EXTINF:-1, MBC BW
+http://globe2.midomed.com:80/live/GLres245/fannenT/57.ts
+#EXTINF:-1, MBC DRAMA
+http://globe2.midomed.com:80/live/GLres245/fannenT/54.ts
+#EXTINF:-1, MBC MAX
+http://globe2.midomed.com:80/live/GLres245/fannenT/58.ts
+#EXTINF:-1, MBC MSR
+http://globe2.midomed.com:80/live/GLres245/fannenT/56.ts
+#EXTINF:-1, MBC SP1
+http://globe2.midomed.com:80/live/GLres245/fannenT/102.ts
+#EXTINF:-1, MBC SP2
+http://globe2.midomed.com:80/live/GLres245/fannenT/103.ts
+#EXTINF:-1, Syria Aloula
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+#EXTINF:-1, Syria Drama	
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+#EXTINF:-1, Syria	
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:-1, Sama Syria
+rtmp://sama-tv.net/live/samatv
 #EXTINF:1,2M
 rtmp://37.59.17.92:1935/live?idu=toufikmora_89621209080/2m
 #EXTINF:2,ALHayat
@@ -515,10 +545,6 @@ rtmp://80.82.78.26:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.e
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
 #EXTINF:-1,Arabica Music
 http://37.48.80.48:1935/arabicalive/arabicatv/chunklist_w525000.m3u8
-#EXTINF:-1, Syria	
-http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
-#EXTINF:-1, Sama Syria
-rtmp://sama-tv.net/live/samatv
 #EXTINF:-1, Syria Aloula
 http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
 #EXTINF:-1, Syria Drama	
@@ -561,11 +587,11 @@ http://185.27.237.105:8082/TV0056
 http://185.27.237.105:8082/TV0059
 #EXTINF:-1,E! Entertainment HD
 http://185.27.237.105:8082/TV0060
-#EXTINF:-1,OSN +2 N
+#EXTINF:-1,OSN FIRST +2 
 http://185.27.237.105:8082/TV0062
 #EXTINF:-1,OSN FIRST HD
 http://185.27.237.105:8082/TV0063
-#EXTINF:-1,oSn ya halla hd N
+#EXTINF:-1,OSN YAHALA HD 
 http://185.27.237.105:8082/TV0064
 #EXTINF:-1,OSN N
 http://185.27.237.105:8082/TV0065
@@ -583,20 +609,47 @@ http://185.27.237.105:8082/TV0084
 http://185.27.237.105:8082/TV0086
 #EXTINF:-1,Fashion TV HD
 http://185.27.237.105:8082/TV0088
-#EXTINF:-1,OSN N
+#EXTINF:-1,Discovery World
 http://185.27.237.105:8082/TV0089
 #EXTINF:-1,Discovery Science HD
 http://185.27.237.105:8082/TV0090
 #EXTINF:-1,Discovery ID
 http://185.27.237.105:8082/TV0092
-#EXTINF:-1,OSN N
+#EXTINF:-1,ic a
 http://185.27.237.105:8082/TV0093
-#EXTINF:-1,OSN
-http://185.27.237.105:8082/TV0091
 #EXTINF:-1,safwa N
 http://185.27.237.105:8082/TV0099
 #EXTINF:-1,OSN N
 http://185.27.237.105:8082/TV0104
 #EXTINF:-1,diseny N
 http://185.27.237.105:8082/TV0110
-
+#EXTINF:-1, STARWORLD HD	
+http://185.27.237.105:8082/TV0056
+#EXTINF:-1, Discovery HD
+http://185.27.237.105:8082/TV0059
+#EXTINF:-1, E HD
+http://185.27.237.105:8082/TV0060
+#EXTINF:-1, OSN FIRST +2
+http://185.27.237.105:8082/TV0062
+#EXTINF:-1, OSN FIRST HD
+http://185.27.237.105:8082/TV0063
+#EXTINF:-1, OSN YAHALA HD
+http://185.27.237.105:8082/TV0064
+#EXTINF:-1, OSN YAHALA HD2
+http://185.27.237.105:8082/TV0065
+#EXTINF:-1, OSN MOVIES DRAMA+2
+http://185.27.237.105:8082/TV0075
+#EXTINF:-1, OSN FIRST MORE
+http://185.27.237.105:8082/TV0084
+#EXTINF:-1, ci
+http://185.27.237.105:8082/TV0093
+#EXTINF:-1, OSN YAHALA SHABAB HD
+http://185.27.237.105:8082/TV0052
+#EXTINF:-1, OSN FIRST COMEDY+2
+http://185.27.237.105:8082/TV0021
+#EXTINF:-1, OSN MOVIES DRAMA
+http://185.27.237.105:8082/TV0022
+#EXTINF:-1, OSN MOVIES HD
+http://185.27.237.105:8082/TV0023
+#EXTINF:-1, OSN MOVIES HD+2
+http://185.27.237.105:8082/TV0054
