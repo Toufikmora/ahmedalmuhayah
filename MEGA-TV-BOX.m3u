@@ -5,28 +5,6 @@ http://185.27.237.105:8082/TV0119
 http://185.27.237.105:8082/TV0115
 #EXTINF:0,egp 2
 http://185.27.237.105:8082/TV0116
-#EXTINF:-1, MBC 1
-http://globe2.midomed.com:80/live/GLres245/fannenT/50.ts
-#EXTINF:-1, MBC 2
-http://globe2.midomed.com:80/live/GLres245/fannenT/51.ts
-#EXTINF:-1, MBC 3
-http://globe2.midomed.com:80/live/GLres245/fannenT/52.ts
-#EXTINF:-1, MBC 4
-http://globe2.midomed.com:80/live/GLres245/fannenT/53.ts
-#EXTINF:-1, MBC ACTION
-http://globe2.midomed.com:80/live/GLres245/fannenT/55.ts
-#EXTINF:-1, MBC BW
-http://globe2.midomed.com:80/live/GLres245/fannenT/57.ts
-#EXTINF:-1, MBC DRAMA
-http://globe2.midomed.com:80/live/GLres245/fannenT/54.ts
-#EXTINF:-1, MBC MAX
-http://globe2.midomed.com:80/live/GLres245/fannenT/58.ts
-#EXTINF:-1, MBC MSR
-http://globe2.midomed.com:80/live/GLres245/fannenT/56.ts
-#EXTINF:-1, MBC SP1
-http://globe2.midomed.com:80/live/GLres245/fannenT/102.ts
-#EXTINF:-1, MBC SP2
-http://globe2.midomed.com:80/live/GLres245/fannenT/103.ts
 #EXTINF:-1, Syria Aloula
 http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
 #EXTINF:-1, Syria Drama	
